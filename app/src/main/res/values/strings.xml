@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Insta Bios Quotes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Funky Bios</string>
+    <string name="slide_1_desc">A Collection of 1000+ Insta Bios !</string>
+
+    <string name="slide_2_title">Cool Status</string>
+    <string name="slide_2_desc">Category wise status based on Interests !</string>
+
+    <string name="slide_3_title">Quotes Images</string>
+    <string name="slide_3_desc">Quotes written on Images with Beautiful Backgrounds !</string>
+
+    <string name="slide_4_title">Social Share Enabled</string>
+    <string name="slide_4_desc">Square sized Images to share directly on your Social Networks !</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About App</string>
+    <string name="about">Insta Bios Quotes is an app developed by Kshitij Singh in 2016. He has taken in the consideration the reviews and
+        feedbacks recieved from app users to improve the user experience. However now the app has moved under BEINGDEV devs. We are still
+        open for suggestion and feedbacks. Help us sending in your views. \n\n Every week we add new quotes, sayings and Proverbs. Our team constantly
+        watches for new status and quotes updates over internet, books, Poems, Speeches, Social Media, Movies, TV etc. \n\n
+        If you feel like sharing some quotes or your own writings, send in them via feedback or contact forms !
+    </string>
+    <string name="Dis">Most of the content of app is contributed by our app users or developers. However, some of the content may have been
+    picked up from the Internet. If you see anything in the app or website for which you hold copyright, please inform us immediately.
+    We will look formward and remove it if found voilating norms or give you credits.\n\n
+    Website : www.beingdev.com \n\n
+    E-Mail: beingdev.com@gmail.com \n\n
+    Content Copyright 2017-18 Droidxp. All Rights Reserved.</string>
+    <string name="no">No ! Exit</string>
+    <string name="abs">Absolutely</string>
+    <string name="yes">Yes</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-6441178489692166/2764418230</string>
+    <string name="interstitial_full_screen">ca-app-pub-6441178489692166/5312358822</string>
+    <string name="native_ad">ca-app-pub-6441178489692166/8282137092</string>
+
+</resources>

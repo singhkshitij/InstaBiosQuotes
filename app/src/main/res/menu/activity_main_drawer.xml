@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/is"
+            android:title="Follow Dev" />
+    </group>
+
+    <item android:title="Officials">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/shared"
+                android:title="Share App" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/letter"
+                android:title="Contact us" />
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/star"
+                android:title="Rate App" />
+        </menu>
+    </item>
+    <item android:title="Understand App">
+        <menu>
+            <item
+                android:id="@+id/tour"
+                android:title="Take a Tour"
+                android:icon="@drawable/car"/>
+        </menu>
+    </item>
+
+</menu>

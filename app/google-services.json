@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "200892250184",
+    "firebase_url": "https://insta-bios-quotes-39bf6.firebaseio.com",
+    "project_id": "insta-bios-quotes-39bf6",
+    "storage_bucket": "insta-bios-quotes-39bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200892250184:android:6f1896fac628850d",
+        "android_client_info": {
+          "package_name": "com.techlad.instabio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200892250184-ug67rp9398rhg5fkulqre9vl91mnanrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZ_u1P2hM5w0VPY8ubCreWqcNav1_a_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
