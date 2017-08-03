@@ -1,4 +1,4 @@
-# What's new in this release?
+# What's new in this v4.0?
 
 ✓ New updated Materialistic UI
 ✓ More Quotes Added 
@@ -41,3 +41,4 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 ![Insta Bios Quotes App](https://lh3.googleusercontent.com/wTgn7gP1QwVTo-VG2h8XZyyLJzvYElN6hPXZyv5EgeRs5pReCIZOLd6H-6kjbn9El-c3=h900-rw"Insta Bios Quotes App")
 ![Insta Bios Quotes App](https://lh3.googleusercontent.com/HJEOlxLLLzMEWHzwZdcdQXuDcuAmZoWzkv9NUBOU6ME2asFdRTQwfCOQau0LgdVM3us=h900-rw "Insta Bios Quotes App")
 ![Insta Bios Quotes App](https://lh3.googleusercontent.com/aZFQeQ4TqqFpStlIn_aupAagwE7Ttgvkxd6atcrNZev_kojiW2gyZnFQbmFCsG-YCA=h900-rw"Insta Bios Quotes App")
+
