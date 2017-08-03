@@ -15,6 +15,13 @@ Completely FREE Instagram Bio and Quotes App with latest collection of Instagram
 
 Setting good Instagram Bio gets increased Instagram followers . If you are looking for a nice, crazy, cool, funny or amazing Instagram Bio collection, your search ends in this Instagram Bio and quotes app.<br />
 
+# Screenshots
+
+!(https://lh3.googleusercontent.com/gel26koA4g9mYAoIJlVGZoUDkKf7QjxwxOxAMQEejEogy60RLbNUvbfUws7CI_V27Q=h900-rw ){:height="50%" width="50%" float="left"}<br />
+!(https://lh3.googleusercontent.com/wTgn7gP1QwVTo-VG2h8XZyyLJzvYElN6hPXZyv5EgeRs5pReCIZOLd6H-6kjbn9El-c3=h900-rw){:height="50%" width="50%" float="left"}<br />
+!(https://lh3.googleusercontent.com/HJEOlxLLLzMEWHzwZdcdQXuDcuAmZoWzkv9NUBOU6ME2asFdRTQwfCOQau0LgdVM3us=h900-rw){:height="50%" width="50%" float="left"}<br />
+!(https://lh3.googleusercontent.com/aZFQeQ4TqqFpStlIn_aupAagwE7Ttgvkxd6atcrNZev_kojiW2gyZnFQbmFCsG-YCA=h900-rw){:height="50%" width="50%" float="left"}<br />
+
 # Insta Bio Quotes App Features :-
 
 ✔ Share feature .<br /><br />
@@ -35,10 +42,4 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 - Start and end your day with short good morning and goodnight status poems from this status maker app.
 - Quotes & status texts are available in English.
 
-# Screenshots
-
-!(https://lh3.googleusercontent.com/gel26koA4g9mYAoIJlVGZoUDkKf7QjxwxOxAMQEejEogy60RLbNUvbfUws7CI_V27Q=h900-rw ){:height="50%" width="50%" float="left"}<br />
-!(https://lh3.googleusercontent.com/wTgn7gP1QwVTo-VG2h8XZyyLJzvYElN6hPXZyv5EgeRs5pReCIZOLd6H-6kjbn9El-c3=h900-rw){:height="50%" width="50%" float="left"}<br />
-!(https://lh3.googleusercontent.com/HJEOlxLLLzMEWHzwZdcdQXuDcuAmZoWzkv9NUBOU6ME2asFdRTQwfCOQau0LgdVM3us=h900-rw){:height="50%" width="50%" float="left"}<br />
-!(https://lh3.googleusercontent.com/aZFQeQ4TqqFpStlIn_aupAagwE7Ttgvkxd6atcrNZev_kojiW2gyZnFQbmFCsG-YCA=h900-rw){:height="50%" width="50%" float="left"}<br />
 
