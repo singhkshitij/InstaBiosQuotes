@@ -34,6 +34,8 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 - Start and end your day with short good morning and goodnight status poems from this status maker app.
 - Quotes & status texts are available in English.
 
+[![N|Solid](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.techlad.instabio)
+
 # Screenshots
 <div style="width: 100%">
 <img src="https://lh3.googleusercontent.com/gel26koA4g9mYAoIJlVGZoUDkKf7QjxwxOxAMQEejEogy60RLbNUvbfUws7CI_V27Q=h900-rw" height="480" width="280" align="left">
@@ -41,5 +43,3 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 <img src="https://lh3.googleusercontent.com/HJEOlxLLLzMEWHzwZdcdQXuDcuAmZoWzkv9NUBOU6ME2asFdRTQwfCOQau0LgdVM3us=h900-rw" height="480" width="280" align="left">
 <img src="https://lh3.googleusercontent.com/aZFQeQ4TqqFpStlIn_aupAagwE7Ttgvkxd6atcrNZev_kojiW2gyZnFQbmFCsG-YCA=h900-rw" height="480" width="280" align="left">
 </div>
-
-<center>[![N|Solid](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.techlad.instabio)</center>
