@@ -33,7 +33,7 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 ✓ More Categories Added !<br />
 ✓ Now Images Can be saved to the Device !<br />
 
-<a href="https://play.google.com/store/apps/details?id=com.techlad.instabio"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" width="250" align="center"></a>
+<a href="https://play.google.com/store/apps/details?id=com.techlad.instabio"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="120" width="250"></a>
 
 # Screenshots
 
