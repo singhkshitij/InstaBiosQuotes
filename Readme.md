@@ -1,13 +1,3 @@
-# What's new in this 4.0?
-
-✓ New updated Materialistic UI<br />
-✓ More Quotes Added <br />
-✓ Now You can send your own crafted quotes to Us !<br />
-✓ Quotes Images section Added !<br />
-✓ More Categories Added !<br />
-✓ Now Images Can be saved to the Device !<br />
-
-
 # App Description
 
 Completely FREE Instagram Bio and Quotes App with latest collection of Instagram Bio and Instagram quotes for setting as your status.<br />
@@ -33,6 +23,15 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 - Impress your girlfriends with romantic love status quotes.
 - Start and end your day with short good morning and goodnight status poems from this status maker app.
 - Quotes & status texts are available in English.
+
+# What's new in v4.0?
+
+✓ New updated Materialistic UI<br />
+✓ More Quotes Added <br />
+✓ Now You can send your own crafted quotes to Us !<br />
+✓ Quotes Images section Added !<br />
+✓ More Categories Added !<br />
+✓ Now Images Can be saved to the Device !<br />
 
 [![N|Solid](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.techlad.instabio)
 
