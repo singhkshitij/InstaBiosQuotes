@@ -7,21 +7,12 @@
 ✓ More Categories Added !<br />
 ✓ Now Images Can be saved to the Device !<br />
 
-[![N|Solid](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.techlad.instabio)
 
 # App Description
 
 Completely FREE Instagram Bio and Quotes App with latest collection of Instagram Bio and Instagram quotes for setting as your status.<br />
 
 Setting good Instagram Bio gets increased Instagram followers . If you are looking for a nice, crazy, cool, funny or amazing Instagram Bio collection, your search ends in this Instagram Bio and quotes app.<br />
-
-# Screenshots
-<div>
-<img src="https://lh3.googleusercontent.com/gel26koA4g9mYAoIJlVGZoUDkKf7QjxwxOxAMQEejEogy60RLbNUvbfUws7CI_V27Q=h900-rw" height="480" width="280" align="left">
-<img src="https://lh3.googleusercontent.com/wTgn7gP1QwVTo-VG2h8XZyyLJzvYElN6hPXZyv5EgeRs5pReCIZOLd6H-6kjbn9El-c3=h900-rw" height="480" width="280" align="left">
-<img src="https://lh3.googleusercontent.com/HJEOlxLLLzMEWHzwZdcdQXuDcuAmZoWzkv9NUBOU6ME2asFdRTQwfCOQau0LgdVM3us=h900-rw" height="480" width="280" align="left">
-<img src="https://lh3.googleusercontent.com/aZFQeQ4TqqFpStlIn_aupAagwE7Ttgvkxd6atcrNZev_kojiW2gyZnFQbmFCsG-YCA=h900-rw" height="480" width="280" align="left">
-</div>
 
 # Insta Bio Quotes App Features :-
 
@@ -43,3 +34,12 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 - Start and end your day with short good morning and goodnight status poems from this status maker app.
 - Quotes & status texts are available in English.
 
+# Screenshots
+<div style="width: 100%">
+<img src="https://lh3.googleusercontent.com/gel26koA4g9mYAoIJlVGZoUDkKf7QjxwxOxAMQEejEogy60RLbNUvbfUws7CI_V27Q=h900-rw" height="480" width="280" align="left">
+<img src="https://lh3.googleusercontent.com/wTgn7gP1QwVTo-VG2h8XZyyLJzvYElN6hPXZyv5EgeRs5pReCIZOLd6H-6kjbn9El-c3=h900-rw" height="480" width="280" align="left">
+<img src="https://lh3.googleusercontent.com/HJEOlxLLLzMEWHzwZdcdQXuDcuAmZoWzkv9NUBOU6ME2asFdRTQwfCOQau0LgdVM3us=h900-rw" height="480" width="280" align="left">
+<img src="https://lh3.googleusercontent.com/aZFQeQ4TqqFpStlIn_aupAagwE7Ttgvkxd6atcrNZev_kojiW2gyZnFQbmFCsG-YCA=h900-rw" height="480" width="280" align="left">
+</div>
+
+<center>[![N|Solid](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.techlad.instabio)</center>
