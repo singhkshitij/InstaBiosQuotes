@@ -7,6 +7,11 @@ Setting good Instagram Bio gets increased Instagram followers . If you are looki
 # Stats Before it was discountinued
 <img src="https://github.com/singhkshitij/InstaBiosQuotes/blob/master/Capture.PNG" height="60" width="100%">
 
+- Still 2,729 users active even after one year of discontiuation
+- 1,544 Generic non-paid , non-advertised review
+- Almost 4.5 rating until it was live
+- Over 5 Lacs downloads before shut down
+- Was suspended due to ads voilation
 
 # Insta Bio Quotes App Features :-
 
