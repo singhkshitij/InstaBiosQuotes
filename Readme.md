@@ -4,6 +4,10 @@ Completely FREE Instagram Bio and Quotes App with latest collection of Instagram
 
 Setting good Instagram Bio gets increased Instagram followers . If you are looking for a nice, crazy, cool, funny or amazing Instagram Bio collection, your search ends in this Instagram Bio and quotes app.<br />
 
+# Stats Before it was discountinued
+<img src="https://github.com/singhkshitij/InstaBiosQuotes/blob/master/Capture.PNG" height="100" width="100%">
+
+
 # Insta Bio Quotes App Features :-
 
 ✔ Share feature .<br />
