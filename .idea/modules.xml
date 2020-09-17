@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InstaBiosQuotes.iml" filepath="$PROJECT_DIR$/InstaBiosQuotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InstaBiosQuotes-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InstaBiosQuotes-app.iml" group="InstaBiosQuotes/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Others-InstaBiosQuotes.iml" filepath="$PROJECT_DIR$/.idea/modules/Others-InstaBiosQuotes.iml" group="InstaBiosQuotes" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
