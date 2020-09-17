@@ -1,80 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.techlad.instabio">
+	package="com.techlad.instabio">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
-    <application
-        android:name=".MyApplication"
-        android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
-        android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+	<application
+		android:name=".MyApplication"
+		android:allowBackup="true"
+		android:icon="@mipmap/ic_launcher"
+		android:label="@string/app_name"
+		android:roundIcon="@mipmap/ic_launcher_round"
+		android:supportsRtl="true"
+		android:theme="@style/AppTheme">
 
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
+		<meta-data
+			android:name="com.google.android.gms.ads.APPLICATION_ID"
+			android:value="ca-app-pub-3940256099942544~3347511713" />
+		<meta-data
+			android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+			android:value="true" />
 
-        <activity android:name=".WelcomeActivity" />
-        <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".AboutApp"
-            android:label="About Us"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".Splashscreen"
-            android:label="@string/app_name">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+		<activity android:name=".WelcomeActivity" />
+		<activity
+			android:name=".MainActivity"
+			android:label="@string/app_name"
+			android:theme="@style/AppTheme" />
+		<activity
+			android:name=".AboutApp"
+			android:label="About Us"
+			android:theme="@style/AppTheme" />
+		<activity
+			android:name=".Splashscreen"
+			android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name=".Motivational" />
-        <activity
-            android:name=".SingleFunny"
-            android:theme="@style/AppTheme" />
-        <activity android:name=".Funny" />
-        <activity android:name=".Love" />
-        <activity android:name=".Dream" />
-        <activity android:name=".Broken" />
-        <activity android:name=".Workout" />
-        <activity android:name=".Sports" />
-        <activity android:name=".Lessons" />
-        <activity android:name=".Music" />
-        <activity android:name=".Friendship" />
-        <activity android:name=".Success" />
-        <activity android:name=".Submission" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".Motivational" />
+		<activity
+			android:name=".SingleFunny"
+			android:theme="@style/AppTheme" />
+		<activity android:name=".Funny" />
+		<activity android:name=".Love" />
+		<activity android:name=".Dream" />
+		<activity android:name=".Broken" />
+		<activity android:name=".Workout" />
+		<activity android:name=".Sports" />
+		<activity android:name=".Lessons" />
+		<activity android:name=".Music" />
+		<activity android:name=".Friendship" />
+		<activity android:name=".Success" />
+		<activity android:name=".Submission" />
 
-        <!-- Firebase Notifications -->
-        <service android:name=".MyFirebaseMessagingService">
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
-        <service android:name=".MyFirebaseInstanceIDService">
-            <intent-filter>
-                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-            </intent-filter>
-        </service>
-        <!-- ./Firebase Notifications -->
-        <activity android:name=".Notification" />
-        <activity android:name=".Images"
-            android:label="Images Gallery"/>
-        <activity android:name=".FullImageActivity"/>
+		<!-- Firebase Notifications -->
+		<service android:name=".MyFirebaseMessagingService">
+			<intent-filter>
+				<action android:name="com.google.firebase.MESSAGING_EVENT" />
+			</intent-filter>
+		</service>
+		<service android:name=".MyFirebaseInstanceIDService">
+			<intent-filter>
+				<action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+			</intent-filter>
+		</service>
+		<!-- ./Firebase Notifications -->
+		<activity android:name=".Notification" />
+		<activity
+			android:name=".Images"
+			android:label="Images Gallery" />
+		<activity android:name=".FullImageActivity" />
 
 
-    <!--Include the AdActivity configChanges and theme. -->
-    <activity
-        android:name="com.google.android.gms.ads.AdActivity"
-        android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-        android:theme="@android:style/Theme.Translucent" />
-    </application>
+		<!--Include the AdActivity configChanges and theme. -->
+		<activity
+			android:name="com.google.android.gms.ads.AdActivity"
+			android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+			android:theme="@android:style/Theme.Translucent" />
+	</application>
 
 </manifest>

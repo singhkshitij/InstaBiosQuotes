@@ -33,7 +33,8 @@
             android:text="@string/slide_3_desc"
             android:textAlignment="center"
             android:textColor="@android:color/white"
-            android:textSize="@dimen/slide_desc" />
+            android:textSize="@dimen/slide_desc"
+            android:gravity="center_horizontal" />
 
     </LinearLayout>
 
