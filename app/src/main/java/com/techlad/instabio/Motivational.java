@@ -2,7 +2,7 @@ package com.techlad.instabio;
 
 import android.app.ListActivity;
 import android.content.Intent;
-import android.support.v4.content.ContextCompat;
+
 import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
@@ -11,6 +11,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import androidx.core.content.ContextCompat;
 
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
